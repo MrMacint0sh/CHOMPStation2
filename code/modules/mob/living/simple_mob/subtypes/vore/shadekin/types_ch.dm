@@ -1,4 +1,4 @@
-/mob/living/simple_animal/shadekin/blue/luna
+/mob/living/simple_mob/shadekin/blue/luna
 	name = "Luna"
 	desc = "She appears to be a fuzzy critter of some sort. Her eyes shimmer a dark blue, glancing around curiously."
 	icon_state = "luna"
@@ -15,7 +15,7 @@
 	and your mind is set on retaining knowledge of these odd planescape."
 
 //Hikara's Shadekin, Zylas
-/mob/living/simple_animal/shadekin/purple/zylas
+/mob/living/simple_mob/shadekin/purple/zylas
 	name ="Zylas"
 	desc = "An average sized shadekin that seems to exude a much larger sense of authority. \
 	Their armored coat jingles with every step taken. He cant kick your ass without coming closer."
@@ -26,10 +26,18 @@
 	vore_stomach_flavor = "You are trapped in a cramped tight space. The color purple seems to dominate your vision. \
 	His walls rolled over your form as you lay trapped in his depths. There wasnt a drop of fluid in sight inside that	\
 	stomach. Instead, you could feel your energy slowly draining away over time, like... he was leeching off you."
-	player_msg = "You are Zylas. Good grief."
+	player_msg = "My name is Zylas. I'm 1033 years old.  My house is in the southeast section of the station, and I am not married. \
+	I work as a trickster in the Northern Star space station, and I get home every day by 23:00 at the latest. \
+	I don't smoke, but I do occasionally drink. I'm in bed by 0:00, and make sure to get 8 hours of stasis. \
+	After having someone to eat and doing about 20 minutes of stretches, and usually settle into bed perfectly. \
+	Just like a human infant, I wake up free of SSD and fatigue. I haven't had a single hiccup while using my powers. \
+	I'm trying to explain that I live a whimsical lifestyle. \
+	I take not to trouble myself with the crew's affairs, winning or losing, that would cost me sleep. \
+	This is how I deal with NT, And I know that is what entertains me. \
+	Although, if I were to fight, I would devour anyone."
 
 //Mack's Shadekin, Mun
-/mob/living/simple_animal/shadekin/blue/mun
+/mob/living/simple_mob/shadekin/blue/mun
 	name ="Mun"
 	desc = "A shorter than average, yet much thicker than average Shadekin. They've got quite the thick, huggable tail. \
 	They're dressed in a warm purple hoodie, a little big for him."
@@ -43,7 +51,7 @@
 	player_msg = "You are Mun. Mess with people if you want, Help 'em if you want to, too."
 
 //Razgriz's shadekin, Rakshasa
-/mob/living/simple_animal/shadekin/red/rakshasa
+/mob/living/simple_mob/shadekin/red/rakshasa
 	name ="Rakshasa"
 	desc = "A scary, black shadekin. Thier body oozes whatever goop they are made of.\
 	He seems a little mischevious... better keep an eye on him."
@@ -63,7 +71,7 @@
 	eye_icon_state = "e_rakshasa"
 
 //Wheatley's shadekin, Anno
-/mob/living/simple_animal/shadekin/purple/anno
+/mob/living/simple_mob/shadekin/purple/anno
 	name ="Anno"
 	desc = "A white furred shadekin with a chubby form. His ears seem to be close to even in length and his snout seems longer than the usual.\
 	He seems energetic and playful."
@@ -78,7 +86,7 @@
 	player_msg = "You are Anno, you are energetic and playful"
 
 //Kovis' shadekin, Roti
-/mob/living/simple_animal/shadekin/blue/roti
+/mob/living/simple_mob/shadekin/blue/roti
 	name ="Roti"
 	desc = "Roti is a shadekin with blue eyes, is chubby since he has eaten others before hand. He enjoys chocolate, the taste of it, the smell of it, he just wants anything sweet and chocolately to be in his belly. So be careful around him this is also a way to summon him by laying around chocolate and calling him out."
 	icon_state = "roti"
@@ -91,7 +99,7 @@
 	player_msg = "You are Roti, a curious shadekin that wishes to learn from the station and eventually speak with them."
 
 //kcin2001's shadekin, Softpatch
-/mob/living/simple_animal/shadekin/green/soft
+/mob/living/simple_mob/shadekin/green/soft
 	name = "Softpatch"
 	desc = "A green eyed brown shadekin, looks fluffy and a bit chubby around the middle underneath his well worn cloak \
 	He seems curious but ready to flee"
