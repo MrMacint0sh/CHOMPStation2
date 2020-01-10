@@ -1,3 +1,4 @@
+/*
 /mob/living/simple_animal/shadekin/initialize()
 	var/list/ability_types = subtypesof(/obj/effect/shadekin_ability)
 	if(name == "Rakshasa")
@@ -201,3 +202,4 @@
 	var/sound = pick(goo_sounds)
 	playsound(my_kin.loc, sound, 100, 1)
 	new /obj/structure/gootrap (my_kin.loc)
+*/
