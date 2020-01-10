@@ -1,3 +1,4 @@
+/*
 /obj/structure/gootrap
 	name = "goo"
 	throw_speed = 2
@@ -74,3 +75,4 @@
 			message_admins("[key_name(usr)] has stepped in the goo trap.")
 	..()
 
+*/
